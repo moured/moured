@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hey! My name is Omar, and I am a PhD student and research assistant at Karlsruhe Institute of Technology. I work on Document Analysis, as well as other computer vision projects such as robotics and intelligent surveillance systems. I mainly program in Python, and C++. I love creating meaningful applications and solving problems!
 
+
 <!--
 **moured/moured** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
