@@ -5,9 +5,17 @@
   <!-- If you want the template for my gif, email me! -->
 </div>
 
-# 💫 About Me:
-Hey! My name is Omar, and I am a PhD student and research assistant at Karlsruhe Institute of Technology. I work on Document Analysis, as well as other computer vision projects such as robotics and intelligent surveillance systems. I mainly program in Python, and C++. I love creating meaningful applications and solving problems!
+# 💫 About Me
 
+- 🔭 I’m currently working on **Large Vision-Langunage Models.**
+
+- 🌱 I’m currently learning **Visual Grounding and Scene Graph Generation.**
+
+Hey! I am a PhD student and research assistant at Karlsruhe Institute of Technology. I work on Document Analysis, as well as other computer vision projects such as robotics and smart visual analytics. I mainly program in Python, and C++. I love creating meaningful applications and solving problems!
+
+# 📫 Contact
+
+-  How to reach me: **moured.omar@gmail.com || linkedin.com/in/omar-moured**
 
 <!--
 **moured/moured** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
