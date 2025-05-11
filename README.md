@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://linkedin.com/in/omar-moured/">
-    <img src="https://raw.githubusercontent.com/moured/moured/master/github_profile_background.gif?v=1" alt="Profile background gif">
+    <img src="https://raw.githubusercontent.com/moured/moured/master/github_profile_background.gif?v=2" alt="Profile background gif" width="600">
   </a>
-  <!-- If you want the template for my gif, email me! -->
 </div>
+
 
 # 💫 About Me
 
